@@ -25,6 +25,8 @@ print("   *******************************************************************")
 
 ascii("  w0rdList_Makr")
 
+print("  Thanks for downloading! I am in no way responsible for how you use this :)")
+
 print(Fore.MAGENTA)
 
 print("\n  Beginning string ex [tp******] / Enter = ''\n")
